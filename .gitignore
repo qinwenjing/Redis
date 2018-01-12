@@ -1,0 +1,15 @@
+target/
+settings/
+.idea/
+
+.log
+.svn
+.class
+.classpath
+.project
+.settings
+
+.iml
+*.iml
+*.DS_Store
+*.log
